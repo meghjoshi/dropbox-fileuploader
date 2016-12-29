@@ -1,13 +1,11 @@
 {
   "_args": [
     [
-      "dropbox-uploader",
-      "/home/lcom42/Desktop/Drop"
+      "dropbox-uploader",""
     ]
   ],
   "_from": "dropbox-uploader@latest",
   "_id": "dropbox-uploader@1.0.8",
-  "_inCache": true,
   "_installable": true,
   "_location": "/dropbox-uploader",
   "_npmUser": {
