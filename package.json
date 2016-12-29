@@ -1,0 +1,56 @@
+{
+  "_args": [
+    [
+      "dropbox-uploader",
+      "/home/lcom42/Desktop/Drop"
+    ]
+  ],
+  "_from": "dropbox-uploader@latest",
+  "_id": "dropbox-uploader@1.0.8",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/dropbox-uploader",
+  "_npmUser": {
+    "email": "meghna@teleworm.us",
+    "name": "megjoshi"
+  },
+  "_requested": {
+    "name": "dropbox-uploader",
+    "raw": "dropbox-uploader",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "author": {
+    "name": "megh joshi"
+  },
+  "bin": {
+    "dropbox-uploader": "upload-dropbox-cli.js"
+  },
+  "dependencies": {
+    "request": "^2.72.0"
+  },
+  "description": "upload file to dropbox",
+  "devDependencies": {},
+  "directories": {},
+  "license": "ISC",
+  "main": "dropbox-uploader.js",
+  "maintainers": [
+    {
+      "email": "meghna@hotmail.com",
+      "name": "megjoshi"
+    }
+  ],
+  "name": "dropbox-upload",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meghjoshi/dropbox-fileuploader.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.8"
+}
